@@ -30,7 +30,7 @@ I might win this competition   <img src="http://marioruns.com/forum/images/smili
 <title type="html"><![CDATA[Re: Post yer brews!~]]></title>
 
 <content type="html" xml:base="http://marioruns.com/forum/viewtopic.php?t=83&amp;p=605#p605"><![CDATA[
-Chai tea with &quot;Ginger cloves cardamon and a touch of smooth vanilla&quot;  <!-- m --><a class="postlink" href="http://imgur.com/MTjKk6P">http://imgur.com/MTjKk6P</a><!-- m --><p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=79">Joey2212</a> — 21 Jan 2014, 05:03</p><hr />
+Chai tea with &quot;Ginger cloves cardamon and a touch of smooth vanilla&quot;  <!-- m --><a class="postlink" href="http://imgur.com/MTjKk6P" target="_blank">http://imgur.com/MTjKk6P</a><!-- m --><p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=79">Joey2212</a> — 21 Jan 2014, 05:03</p><hr />
 ]]></content>
 </entry>
 <entry>

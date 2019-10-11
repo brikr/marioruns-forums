@@ -66,7 +66,7 @@ I completed dark world with the X-cam fixed at the start:<br /><!-- m --><a clas
 <title type="html"><![CDATA[Re: Brag Thread]]></title>
 
 <content type="html" xml:base="http://marioruns.com/forum/viewtopic.php?t=257&amp;p=2747#p2747"><![CDATA[
-<a href="http://www.twitch.tv/dj0nk/c/5633280" class="postlink">http://www.twitch.tv/dj0nk/c/5633280</a><br /><br />Casual topless. (after failing the bird star lel)<p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=1532">dj0nk</a> — 08 Dec 2014, 04:33</p><hr />
+<a href="http://www.twitch.tv/dj0nk/c/5633280" target="_blank" class="postlink">http://www.twitch.tv/dj0nk/c/5633280</a><br /><br />Casual topless. (after failing the bird star lel)<p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=1532">dj0nk</a> — 08 Dec 2014, 04:33</p><hr />
 ]]></content>
 </entry>
 <entry>

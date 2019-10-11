@@ -30,7 +30,7 @@ I was waiting for the brag.<p>Statistics: Posted by <a href="http://marioruns.co
 <title type="html"><![CDATA[Re: Multiplayer speedruns!]]></title>
 
 <content type="html" xml:base="http://marioruns.com/forum/viewtopic.php?t=100&amp;p=798#p798"><![CDATA[
-only co-op run that matters <!-- m --><a class="postlink" href="http://www.twitch.tv/cpkaka/c/3070049">http://www.twitch.tv/cpkaka/c/3070049</a><!-- m --><p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=49">sicko</a> — 16 Apr 2014, 20:38</p><hr />
+only co-op run that matters <!-- m --><a class="postlink" href="http://www.twitch.tv/cpkaka/c/3070049" target="_blank">http://www.twitch.tv/cpkaka/c/3070049</a><!-- m --><p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=49">sicko</a> — 16 Apr 2014, 20:38</p><hr />
 ]]></content>
 </entry>
 <entry>

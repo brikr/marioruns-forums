@@ -138,7 +138,7 @@ omg   <img src="http://marioruns.com/forum/images/smilies/icon_eek.gif" alt=":sh
 <title type="html"><![CDATA[Sicko Appreciation Thread (Appreciation Edition)]]></title>
 
 <content type="html" xml:base="http://marioruns.com/forum/viewtopic.php?t=29&amp;p=82#p82"><![CDATA[
-Please post why you love Sicko, the leader of our community, and best and nicest player in it. I'll start- <br /><a href="http://gyazo.com/11b5e2f0f6b9131d5a32bdc6cd85a637" class="postlink">http://gyazo.com/11b5e2f0f6b9131d5a32bdc6cd85a637</a><p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=84">ClysmiC</a> — 21 Nov 2013, 06:52</p><hr />
+Please post why you love Sicko, the leader of our community, and best and nicest player in it. I'll start- <br /><a href="http://gyazo.com/11b5e2f0f6b9131d5a32bdc6cd85a637" target="_blank" class="postlink">http://gyazo.com/11b5e2f0f6b9131d5a32bdc6cd85a637</a><p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=84">ClysmiC</a> — 21 Nov 2013, 06:52</p><hr />
 ]]></content>
 </entry>
 </feed>

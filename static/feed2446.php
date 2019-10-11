@@ -78,7 +78,7 @@ Should we just merge these into a single mario fail thread. Easier to condense a
 <title type="html"><![CDATA[Re: Fail Video Thread]]></title>
 
 <content type="html" xml:base="http://marioruns.com/forum/viewtopic.php?t=268&amp;p=1597#p1597"><![CDATA[
-<!-- m --><a class="postlink" href="http://www.twitch.tv/tx360mario/c/4156419">http://www.twitch.tv/tx360mario/c/4156419</a><!-- m --> Happened earlier<p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=1461">Tx360mario</a> — 29 Apr 2014, 20:45</p><hr />
+<!-- m --><a class="postlink" href="http://www.twitch.tv/tx360mario/c/4156419" target="_blank">http://www.twitch.tv/tx360mario/c/4156419</a><!-- m --> Happened earlier<p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=1461">Tx360mario</a> — 29 Apr 2014, 20:45</p><hr />
 ]]></content>
 </entry>
 <entry>
@@ -90,7 +90,7 @@ Should we just merge these into a single mario fail thread. Easier to condense a
 <title type="html"><![CDATA[Re: Fail Video Thread]]></title>
 
 <content type="html" xml:base="http://marioruns.com/forum/viewtopic.php?t=268&amp;p=1586#p1586"><![CDATA[
-<a href="http://www.twitch.tv/balls_out/c/851532" class="postlink">http://www.twitch.tv/balls_out/c/851532</a><br /><br />^^^My finest work...hard to believe this was 2 years ago <br /><br />I still cry everytime <img src="http://marioruns.com/forum/images/smilies/biblethump.png" alt="BibleThump" title="BibleThump" />  <img src="http://marioruns.com/forum/images/smilies/biblethump.png" alt="BibleThump" title="BibleThump" />  <img src="http://marioruns.com/forum/images/smilies/biblethump.png" alt="BibleThump" title="BibleThump" /><p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=70">Balls Out</a> — 29 Apr 2014, 19:02</p><hr />
+<a href="http://www.twitch.tv/balls_out/c/851532" target="_blank" class="postlink">http://www.twitch.tv/balls_out/c/851532</a><br /><br />^^^My finest work...hard to believe this was 2 years ago <br /><br />I still cry everytime <img src="http://marioruns.com/forum/images/smilies/biblethump.png" alt="BibleThump" title="BibleThump" />  <img src="http://marioruns.com/forum/images/smilies/biblethump.png" alt="BibleThump" title="BibleThump" />  <img src="http://marioruns.com/forum/images/smilies/biblethump.png" alt="BibleThump" title="BibleThump" /><p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=70">Balls Out</a> — 29 Apr 2014, 19:02</p><hr />
 ]]></content>
 </entry>
 <entry>

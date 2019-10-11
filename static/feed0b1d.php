@@ -54,7 +54,7 @@ Thanks!<br />I'll go for the WF (29) route and see what I can do!<br /><br />I a
 <title type="html"><![CDATA[Re: 120 route]]></title>
 
 <content type="html" xml:base="http://marioruns.com/forum/viewtopic.php?t=222&amp;p=1643#p1643"><![CDATA[
-speedruntrainer use one of these routes:<br /><br />wf29: wf late and basement early: <!-- m --><a class="postlink" href="http://gyazo.com/9466d5fb3c9e5d7ee16e9eb3c2f64357">http://gyazo.com/9466d5fb3c9e5d7ee16e9eb3c2f64357</a><!-- m --><br />dragorn: <!-- m --><a class="postlink" href="http://gyazo.com/95a11381d52a1f7bfab38a295ee93491">http://gyazo.com/95a11381d52a1f7bfab38a295ee93491</a><!-- m --><br />bebop route: wf first basement early: <!-- m --><a class="postlink" href="http://gyazo.com/94e06de9f8bf80580be4e0187816be63">http://gyazo.com/94e06de9f8bf80580be4e0187816be63</a><!-- m --><br /><br />of course there are way more routes, everyone has their own little variation, but I think these are the most common<p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=69">toastrider</a> — 30 Apr 2014, 02:19</p><hr />
+speedruntrainer use one of these routes:<br /><br />wf29: wf late and basement early: <!-- m --><a class="postlink" href="http://gyazo.com/9466d5fb3c9e5d7ee16e9eb3c2f64357" target="_blank">http://gyazo.com/9466d5fb3c9e5d7ee16e9eb3c2f64357</a><!-- m --><br />dragorn: <!-- m --><a class="postlink" href="http://gyazo.com/95a11381d52a1f7bfab38a295ee93491" target="_blank">http://gyazo.com/95a11381d52a1f7bfab38a295ee93491</a><!-- m --><br />bebop route: wf first basement early: <!-- m --><a class="postlink" href="http://gyazo.com/94e06de9f8bf80580be4e0187816be63" target="_blank">http://gyazo.com/94e06de9f8bf80580be4e0187816be63</a><!-- m --><br /><br />of course there are way more routes, everyone has their own little variation, but I think these are the most common<p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=69">toastrider</a> — 30 Apr 2014, 02:19</p><hr />
 ]]></content>
 </entry>
 <entry>
@@ -126,7 +126,7 @@ I'm calling it now, the next big thing is upstairs early.<p>Statistics: Posted b
 <title type="html"><![CDATA[Re: 120 route]]></title>
 
 <content type="html" xml:base="http://marioruns.com/forum/viewtopic.php?t=222&amp;p=1160#p1160"><![CDATA[
-<!-- m --><a class="postlink" href="http://www.youtube.com/user/akikan1111/videos">http://www.youtube.com/user/akikan1111/videos</a><!-- m --><p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=58">MiracleTea</a> — 22 Apr 2014, 03:18</p><hr />
+<!-- m --><a class="postlink" href="http://www.youtube.com/user/akikan1111/videos" target="_blank">http://www.youtube.com/user/akikan1111/videos</a><!-- m --><p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=58">MiracleTea</a> — 22 Apr 2014, 03:18</p><hr />
 ]]></content>
 </entry>
 <entry>

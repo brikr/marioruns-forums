@@ -66,7 +66,7 @@ this is really sick and I think everyone should listen to it, even if you're not
 <title type="html"><![CDATA[Re: What are you listening to?]]></title>
 
 <content type="html" xml:base="http://marioruns.com/forum/viewtopic.php?t=62&amp;p=1657#p1657"><![CDATA[
-<!-- m --><a class="postlink" href="https://www.youtube.com/watch?v=aGwd26UMcQA">https://www.youtube.com/watch?v=aGwd26UMcQA</a><!-- m --><p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=72">BebopBandit</a> — 30 Apr 2014, 02:27</p><hr />
+<!-- m --><a class="postlink" href="https://www.youtube.com/watch?v=aGwd26UMcQA" target="_blank">https://www.youtube.com/watch?v=aGwd26UMcQA</a><!-- m --><p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=72">BebopBandit</a> — 30 Apr 2014, 02:27</p><hr />
 ]]></content>
 </entry>
 <entry>

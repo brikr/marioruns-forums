@@ -18,7 +18,7 @@
 <title type="html"><![CDATA[Getting started with your mario speedrunning]]></title>
 
 <content type="html" xml:base="http://marioruns.com/forum/viewtopic.php?t=282&amp;p=1841#p1841"><![CDATA[
-Hey so I think there should be a thread for noobs to ask questions about streaming set-ups<br /><br /><!-- m --><a class="postlink" href="http://speedrunslive.com/tools/">http://speedrunslive.com/tools/</a><!-- m --> this is a good place to start when beginning to stream. It has the necessities such as streaming software and timers.<p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=51">Shredwot</a> — 02 May 2014, 04:23</p><hr />
+Hey so I think there should be a thread for noobs to ask questions about streaming set-ups<br /><br /><!-- m --><a class="postlink" href="http://speedrunslive.com/tools/" target="_blank">http://speedrunslive.com/tools/</a><!-- m --> this is a good place to start when beginning to stream. It has the necessities such as streaming software and timers.<p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=51">Shredwot</a> — 02 May 2014, 04:23</p><hr />
 ]]></content>
 </entry>
 </feed>

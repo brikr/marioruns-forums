@@ -162,7 +162,7 @@ Hey All !<br />I'm really new to the speed running community. I always watch a l
 
 <category term="Games" scheme="http://marioruns.com/forum/viewforum.php?f=10" label="Games"/>
 <content type="html" xml:base="http://marioruns.com/forum/viewtopic.php?t=223&amp;p=2188#p2188"><![CDATA[
-this game is fun tho 8) <!-- m --><a class="postlink" href="http://gyazo.com/3e8bc0ce96ebbb7253304f58c3f2bcd3">http://gyazo.com/3e8bc0ce96ebbb7253304f58c3f2bcd3</a><!-- m --><p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=108">Kyman</a> — 18 May 2014, 02:20</p><hr />
+this game is fun tho 8) <!-- m --><a class="postlink" href="http://gyazo.com/3e8bc0ce96ebbb7253304f58c3f2bcd3" target="_blank">http://gyazo.com/3e8bc0ce96ebbb7253304f58c3f2bcd3</a><!-- m --><p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=108">Kyman</a> — 18 May 2014, 02:20</p><hr />
 ]]></content>
 </entry>
 <entry>

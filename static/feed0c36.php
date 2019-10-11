@@ -90,7 +90,7 @@ Wow! What an amazing time! Congratulations to the great Siglemic!<p>Statistics: 
 <title type="html"><![CDATA[Siglemic 1:43:54 120 star]]></title>
 
 <content type="html" xml:base="http://marioruns.com/forum/viewtopic.php?t=241&amp;p=1210#p1210"><![CDATA[
-Grats to siggydiggy getting the 1:43 on n64, it was a long time coming. <br /><br />For those who missed it you can view it here <!-- m --><a class="postlink" href="http://www.twitch.tv/siglemic/c/4112992">http://www.twitch.tv/siglemic/c/4112992</a><!-- m --><p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=51">Shredwot</a> — 23 Apr 2014, 06:15</p><hr />
+Grats to siggydiggy getting the 1:43 on n64, it was a long time coming. <br /><br />For those who missed it you can view it here <!-- m --><a class="postlink" href="http://www.twitch.tv/siglemic/c/4112992" target="_blank">http://www.twitch.tv/siglemic/c/4112992</a><!-- m --><p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=51">Shredwot</a> — 23 Apr 2014, 06:15</p><hr />
 ]]></content>
 </entry>
 </feed>

@@ -30,7 +30,7 @@ we could always do a google+ hangout : ^ )<p>Statistics: Posted by <a href="http
 <title type="html"><![CDATA[Re: ???!!!!!1]]></title>
 
 <content type="html" xml:base="http://marioruns.com/forum/viewtopic.php?t=92&amp;p=449#p449"><![CDATA[
-<!-- m --><a class="postlink" href="http://tinychat.com/wtfmansicko2">http://tinychat.com/wtfmansicko2</a><!-- m --> backup yo<p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=49">sicko</a> — 14 Dec 2013, 23:14</p><hr />
+<!-- m --><a class="postlink" href="http://tinychat.com/wtfmansicko2" target="_blank">http://tinychat.com/wtfmansicko2</a><!-- m --> backup yo<p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=49">sicko</a> — 14 Dec 2013, 23:14</p><hr />
 ]]></content>
 </entry>
 <entry>

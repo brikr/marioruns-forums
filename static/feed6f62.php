@@ -18,7 +18,7 @@
 <title type="html"><![CDATA[Re: Retard thread]]></title>
 
 <content type="html" xml:base="http://marioruns.com/forum/viewtopic.php?t=293&amp;p=2391#p2391"><![CDATA[
-Not retarded really i just thought this was funny<br /><br /><!-- m --><a class="postlink" href="http://gyazo.com/88c8a2727b6ed9cda04abb696d2fbf0f">http://gyazo.com/88c8a2727b6ed9cda04abb696d2fbf0f</a><!-- m --><p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=1407">Hafus</a> — 09 Jun 2014, 12:23</p><hr />
+Not retarded really i just thought this was funny<br /><br /><!-- m --><a class="postlink" href="http://gyazo.com/88c8a2727b6ed9cda04abb696d2fbf0f" target="_blank">http://gyazo.com/88c8a2727b6ed9cda04abb696d2fbf0f</a><!-- m --><p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=1407">Hafus</a> — 09 Jun 2014, 12:23</p><hr />
 ]]></content>
 </entry>
 <entry>
