@@ -18,7 +18,7 @@
 <title type="html"><![CDATA[Task Completion]]></title>
 
 <content type="html" xml:base="http://marioruns.com/forum/viewtopic.php?t=149&amp;p=607#p607"><![CDATA[
-It seems our friend the mlg pro is starting up the task completion again, figured I'd share if any of you missed it and want to join in:<br /><br /><a href="http://www.reddit.com/r/speedrun/comments/1vzwwz/super_mario_64_task_competition_is_back/" class="postlink">http://www.reddit.com/r/speedrun/comments/1vzwwz/super_mario_64_task_competition_is_back/</a><p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=98">trakilicious</a> — 24 Jan 2014, 10:56</p><hr />
+It seems our friend the mlg pro is starting up the task completion again, figured I'd share if any of you missed it and want to join in:<br /><br /><a href="http://www.reddit.com/r/speedrun/comments/1vzwwz/super_mario_64_task_competition_is_back/" target="_blank" class="postlink">http://www.reddit.com/r/speedrun/comments/1vzwwz/super_mario_64_task_competition_is_back/</a><p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=98">trakilicious</a> — 24 Jan 2014, 10:56</p><hr />
 ]]></content>
 </entry>
 </feed>
