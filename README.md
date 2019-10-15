@@ -7,6 +7,5 @@ gcloud app deploy
 ```
 ## Known Issues
 - Images from i.minus.com fail to load
-- Links to external sites don't open in a new tab/window (the original forums didn't do this either).
 
 If you find anything wrong with the archive while browsing through, feel free to file an issue in this repository or contact me on [Twitter](https://twitter.com/_minikori).
