@@ -30,7 +30,7 @@ if anyone else is having this issue ctrl+f5 will do the trick  <img src="http://
 <title type="html"><![CDATA[Re: ChatBox]]></title>
 
 <content type="html" xml:base="http://marioruns.com/forum/viewtopic.php?t=187&amp;p=736#p736"><![CDATA[
-<!-- m --><a class="postlink" href="http://gyazo.com/979548f207bc3100821d513a697c22c6">http://gyazo.com/979548f207bc3100821d513a697c22c6</a><!-- m --><br /><br />I'm on Chrome btw. Refreshing doesn't seem to fix it.<p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=72">BebopBandit</a> — 14 Apr 2014, 02:06</p><hr />
+<!-- m --><a class="postlink" href="http://gyazo.com/979548f207bc3100821d513a697c22c6" target="_blank">http://gyazo.com/979548f207bc3100821d513a697c22c6</a><!-- m --><br /><br />I'm on Chrome btw. Refreshing doesn't seem to fix it.<p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=72">BebopBandit</a> — 14 Apr 2014, 02:06</p><hr />
 ]]></content>
 </entry>
 <entry>

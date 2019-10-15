@@ -18,7 +18,7 @@
 <title type="html"><![CDATA[Much hacks]]></title>
 
 <content type="html" xml:base="http://marioruns.com/forum/viewtopic.php?t=302&amp;p=2192#p2192"><![CDATA[
-<a href="https://www.youtube.com/watch?v=0VANlhef0EY" class="postlink">https://www.youtube.com/watch?v=0VANlhef0EY</a><br /><br />Some are pretty cool, worth a look<p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=1461">Tx360mario</a> — 18 May 2014, 03:21</p><hr />
+<a href="https://www.youtube.com/watch?v=0VANlhef0EY" target="_blank" class="postlink">https://www.youtube.com/watch?v=0VANlhef0EY</a><br /><br />Some are pretty cool, worth a look<p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=1461">Tx360mario</a> — 18 May 2014, 03:21</p><hr />
 ]]></content>
 </entry>
 </feed>

@@ -54,7 +54,7 @@ Lucus is only 3 years old?<br /><br />This explains a lot.<p>Statistics: Posted 
 <title type="html"><![CDATA[Re: Post your pic.]]></title>
 
 <content type="html" xml:base="http://marioruns.com/forum/viewtopic.php?t=40&amp;p=2605#p2605"><![CDATA[
-<a href="http://goo.gl/avbdu7" class="postlink">http://goo.gl/avbdu7</a>  Me and my son Lucas!<p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=1530">SphericalCrusher</a> — 16 Sep 2014, 18:53</p><hr />
+<a href="http://goo.gl/avbdu7" target="_blank" class="postlink">http://goo.gl/avbdu7</a>  Me and my son Lucas!<p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=1530">SphericalCrusher</a> — 16 Sep 2014, 18:53</p><hr />
 ]]></content>
 </entry>
 <entry>

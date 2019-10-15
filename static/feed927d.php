@@ -18,7 +18,7 @@
 <title type="html"><![CDATA[Re: Few small alternative movements]]></title>
 
 <content type="html" xml:base="http://marioruns.com/forum/viewtopic.php?t=277&amp;p=2327#p2327"><![CDATA[
-<a href="http://gyazo.com/7dd3e9c661d0e188de19d1c5149c3094" class="postlink">http://gyazo.com/7dd3e9c661d0e188de19d1c5149c3094</a><br /><br />this one was new to me when I saw it last night<p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=74">snowman</a> — 01 Jun 2014, 15:11</p><hr />
+<a href="http://gyazo.com/7dd3e9c661d0e188de19d1c5149c3094" target="_blank" class="postlink">http://gyazo.com/7dd3e9c661d0e188de19d1c5149c3094</a><br /><br />this one was new to me when I saw it last night<p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=74">snowman</a> — 01 Jun 2014, 15:11</p><hr />
 ]]></content>
 </entry>
 <entry>

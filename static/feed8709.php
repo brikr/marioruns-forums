@@ -78,7 +78,7 @@ That's actually really good dude, keep it up.<p>Statistics: Posted by <a href="h
 <title type="html"><![CDATA[day 3 of speedrunning this game, sub25 16 star!]]></title>
 
 <content type="html" xml:base="http://marioruns.com/forum/viewtopic.php?t=242&amp;p=1211#p1211"><![CDATA[
-<!-- m --><a class="postlink" href="https://www.youtube.com/watch?v=a9nPERNcqNk">https://www.youtube.com/watch?v=a9nPERNcqNk</a><!-- m --><br /><!-- m --><a class="postlink" href="http://www.twitch.tv/sinnical/c/4116680">http://www.twitch.tv/sinnical/c/4116680</a><!-- m --><br /><br />I'm really happy about this, really early in attempts and starting to piece together solid runs! Closer and closer til sub 20<p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=1435">Sinnical</a> — 23 Apr 2014, 07:05</p><hr />
+<!-- m --><a class="postlink" href="https://www.youtube.com/watch?v=a9nPERNcqNk" target="_blank">https://www.youtube.com/watch?v=a9nPERNcqNk</a><!-- m --><br /><!-- m --><a class="postlink" href="http://www.twitch.tv/sinnical/c/4116680" target="_blank">http://www.twitch.tv/sinnical/c/4116680</a><!-- m --><br /><br />I'm really happy about this, really early in attempts and starting to piece together solid runs! Closer and closer til sub 20<p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=1435">Sinnical</a> — 23 Apr 2014, 07:05</p><hr />
 ]]></content>
 </entry>
 </feed>

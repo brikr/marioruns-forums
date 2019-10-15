@@ -150,7 +150,7 @@ twitch.tv/basedurngod333221<p>Statistics: Posted by <a href="http://marioruns.co
 <title type="html"><![CDATA[iidx]]></title>
 
 <content type="html" xml:base="http://marioruns.com/forum/viewtopic.php?t=48&amp;p=211#p211"><![CDATA[
-<a href="http://www.youtube.com/watch?v=V2SSjxBO6YM" class="postlink">http://www.youtube.com/watch?v=V2SSjxBO6YM</a><br /><br />god game<p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=58">MiracleTea</a> — 23 Nov 2013, 23:01</p><hr />
+<a href="http://www.youtube.com/watch?v=V2SSjxBO6YM" target="_blank" class="postlink">http://www.youtube.com/watch?v=V2SSjxBO6YM</a><br /><br />god game<p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=58">MiracleTea</a> — 23 Nov 2013, 23:01</p><hr />
 ]]></content>
 </entry>
 </feed>

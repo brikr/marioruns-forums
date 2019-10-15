@@ -30,7 +30,7 @@
 <title type="html"><![CDATA[Re: Alex Tolio support thread]]></title>
 
 <content type="html" xml:base="http://marioruns.com/forum/viewtopic.php?t=288&amp;p=2026#p2026"><![CDATA[
-get well alex. when you came in my chat last year and swagged all over the place, you became my idol.<br /><br />here's to you. <br /><img src="http://images.worldsoft-cms.info//wcms/ftp/c/corfu-grill-hamburg.de/siteimages/2411.jpg" alt="Image" /><br /><br /><br />your interview with goronguy was so good.<br /><br /><a href="http://www.youtube.com/watch?v=eYtxDxlsxR0" class="postlink">http://www.youtube.com/watch?v=eYtxDxlsxR0</a><p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=1447">Vulpone</a> — 09 May 2014, 12:08</p><hr />
+get well alex. when you came in my chat last year and swagged all over the place, you became my idol.<br /><br />here's to you. <br /><img src="http://images.worldsoft-cms.info//wcms/ftp/c/corfu-grill-hamburg.de/siteimages/2411.jpg" alt="Image" /><br /><br /><br />your interview with goronguy was so good.<br /><br /><a href="http://www.youtube.com/watch?v=eYtxDxlsxR0" target="_blank" class="postlink">http://www.youtube.com/watch?v=eYtxDxlsxR0</a><p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=1447">Vulpone</a> — 09 May 2014, 12:08</p><hr />
 ]]></content>
 </entry>
 <entry>

@@ -18,7 +18,7 @@
 <title type="html"><![CDATA[Re: GameShark Code to Drain Moat?]]></title>
 
 <content type="html" xml:base="http://marioruns.com/forum/viewtopic.php?t=341&amp;p=2801#p2801"><![CDATA[
-A little late but I hope it helps. The SM64 EEPROM contains a number of bits used as boolean flags, you can read more about them <a href="http://www.googledrive.com/host/0B1g_ALmgbOzxT2lkbUlRLUd1LXc" class="postlink">here</a>.<br /><br />Beating BitDW sets the flag &quot;Have key to basement&quot; in 0x0B. The &quot;Castle Moat is drained&quot; is a separate flag in 0x0A. So it should be possible to set the moat flag with GS etc. without having beaten BitDW.<p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=1488">abitalive</a> — 12 Feb 2015, 05:04</p><hr />
+A little late but I hope it helps. The SM64 EEPROM contains a number of bits used as boolean flags, you can read more about them <a href="http://www.googledrive.com/host/0B1g_ALmgbOzxT2lkbUlRLUd1LXc" target="_blank" class="postlink">here</a>.<br /><br />Beating BitDW sets the flag &quot;Have key to basement&quot; in 0x0B. The &quot;Castle Moat is drained&quot; is a separate flag in 0x0A. So it should be possible to set the moat flag with GS etc. without having beaten BitDW.<p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=1488">abitalive</a> — 12 Feb 2015, 05:04</p><hr />
 ]]></content>
 </entry>
 <entry>

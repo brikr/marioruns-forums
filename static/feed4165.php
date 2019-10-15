@@ -42,7 +42,7 @@ Best advice I can give is to practice 100c stars a lot. They are most important 
 <title type="html"><![CDATA[Re: Want to learn 120 star]]></title>
 
 <content type="html" xml:base="http://marioruns.com/forum/viewtopic.php?t=162&amp;p=641#p641"><![CDATA[
-Not really a guide but an example run with mostly newbie friendly strats: <a href="https://www.youtube.com/watch?v=SwCwwEpVyag" class="postlink">https://www.youtube.com/watch?v=SwCwwEpVyag</a><br /><br />I'd also suggest just watching people who don't have that good of a time in 120 to see more beginner friendly strats aswell as watching the good people to see how to handle your camera etc.<p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=98">trakilicious</a> — 04 Apr 2014, 19:24</p><hr />
+Not really a guide but an example run with mostly newbie friendly strats: <a href="https://www.youtube.com/watch?v=SwCwwEpVyag" target="_blank" class="postlink">https://www.youtube.com/watch?v=SwCwwEpVyag</a><br /><br />I'd also suggest just watching people who don't have that good of a time in 120 to see more beginner friendly strats aswell as watching the good people to see how to handle your camera etc.<p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=98">trakilicious</a> — 04 Apr 2014, 19:24</p><hr />
 ]]></content>
 </entry>
 <entry>

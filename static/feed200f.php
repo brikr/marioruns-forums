@@ -42,7 +42,7 @@ Thanks, its nice to have breakdowns of the tricks I guess, it'd be handy for bre
 <title type="html"><![CDATA[I made a thing]]></title>
 
 <content type="html" xml:base="http://marioruns.com/forum/viewtopic.php?t=88&amp;p=429#p429"><![CDATA[
-<a href="https://www.youtube.com/watch?v=_XBCtjh4ZBI" class="postlink">https://www.youtube.com/watch?v=_XBCtjh4ZBI</a><br />Lakitu bounce guide. IT SAVES 10 SECONDS!<br />You will have to pause and stuff but idk it might help someone.<p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=115">SimplyN64</a> — 10 Dec 2013, 00:09</p><hr />
+<a href="https://www.youtube.com/watch?v=_XBCtjh4ZBI" target="_blank" class="postlink">https://www.youtube.com/watch?v=_XBCtjh4ZBI</a><br />Lakitu bounce guide. IT SAVES 10 SECONDS!<br />You will have to pause and stuff but idk it might help someone.<p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=115">SimplyN64</a> — 10 Dec 2013, 00:09</p><hr />
 ]]></content>
 </entry>
 </feed>

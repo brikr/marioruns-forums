@@ -126,7 +126,7 @@ wow bebop nice routing skills O_O<p>Statistics: Posted by <a href="http://marior
 <title type="html"><![CDATA[Re: Snowman's Land, Task #1]]></title>
 
 <content type="html" xml:base="http://marioruns.com/forum/viewtopic.php?t=249&amp;p=1648#p1648"><![CDATA[
-Fuck simply and his task. I'm going to ruin it by linking my attempt:<br /><br /><!-- m --><a class="postlink" href="https://www.youtube.com/watch?v=aGwd26UMcQA">https://www.youtube.com/watch?v=aGwd26UMcQA</a><!-- m --><p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=72">BebopBandit</a> — 30 Apr 2014, 02:22</p><hr />
+Fuck simply and his task. I'm going to ruin it by linking my attempt:<br /><br /><!-- m --><a class="postlink" href="https://www.youtube.com/watch?v=aGwd26UMcQA" target="_blank">https://www.youtube.com/watch?v=aGwd26UMcQA</a><!-- m --><p>Statistics: Posted by <a href="http://marioruns.com/forum/memberlist.php?mode=viewprofile&amp;u=72">BebopBandit</a> — 30 Apr 2014, 02:22</p><hr />
 ]]></content>
 </entry>
 <entry>
